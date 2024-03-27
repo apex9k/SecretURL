@@ -1,6 +1,6 @@
-# 🔒 Secret Messenger
+# 🔒 Crypto Courier
 
-Welcome to Secret Messenger, the ultimate tool for sending encrypted messages that self-destruct after being read! 🚀💥
+Welcome to Crypto Courier, the ultimate tool for sending encrypted messages that self-destruct after being read! 🚀💥
 
 ## 🌟 Features
 
