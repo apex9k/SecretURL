@@ -81,8 +81,8 @@ function DecryptContent() {
                     <p className="text-xl text-white">📜 Decrypted Message:</p>
                     <Textarea value={decryptedMessage} readOnly className="mt-2 bg-gray-700 text-white text-xl"
                               aria-label="Decrypted message"/>
-                    <Button variant="ghost" className="mt-2" onClick={handleCopy} aria-label="Copy decrypted message">
-                        <Copy className="h-4 w-4 mr-2 text-white"/>
+                    <Button variant="ghost" className="mt-2 text-white" onClick={handleCopy} aria-label="Copy decrypted message">
+                        <Copy className="h-4 w-4 mr-2"/>
                         Copy to Clipboard
                     </Button>
                 </div>
